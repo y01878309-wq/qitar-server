@@ -1,0 +1,5 @@
+{
+  "name": "qitar-server",
+  "main": "src/server.js",
+  "compatibilityDate": "2024-09-23"
+}
